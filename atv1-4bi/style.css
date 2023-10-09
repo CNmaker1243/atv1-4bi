@@ -1,0 +1,32 @@
+.d1{
+    border: 3px solid red;
+    width: 95px;
+    height: 35px;
+    padding: 1px;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+
+.d2{
+    border: 3px solid yellow;
+    width: 90px;
+    padding: 4px;
+    margin-left: 50%;
+    margin-bottom: 30px;
+}
+
+.d3{
+    border: 3px solid green;
+    width: 43px;
+    padding: 7px;
+    height: 30px;
+    margin-left: 50%;
+}
+
+.d4{
+    border: 3px solid purple;
+    width: 48px;
+    padding: 10px;
+    height: 35px;
+    margin-left: 180px;
+}
